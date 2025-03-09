@@ -1,0 +1,11 @@
+.vs/*
+obj/*
+obj/Debug/*
+obj/Debug/net8.0/EF_Task_1.AssemblyInfo.cs
+obj/Debug/net8.0/EF_Task_1.AssemblyInfoInputs.cache
+obj/Debug/net8.0/EF_Task_1.AssemblyInfoInputs.cache
+obj/Debug/net8.0/EF_Task_1.AssemblyInfo.cs
+obj/Debug/net8.0/EF_Task_1.AssemblyInfoInputs.cache
+obj/Debug/net8.0/EF_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net8.0/EF_Task_1.assets.cache
+obj/Debug/net8.0/EF_Task_1.AssemblyInfoInputs.cache
