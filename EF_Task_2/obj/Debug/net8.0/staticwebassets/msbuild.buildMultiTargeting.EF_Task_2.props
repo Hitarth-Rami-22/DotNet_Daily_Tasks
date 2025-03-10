@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EF_Task_2.props" />
+</Project>
