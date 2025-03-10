@@ -1,0 +1,4 @@
+.vs/*
+
+obj/*
+obj/Release/net8.0/EF_Task_1.csproj.AssemblyReference.cache

@@ -1,4 +1,13 @@
+using Microsoft.Extensions.DependencyInjection;
+using System;
+
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")),
+    ServiceLifetime.Transient);
 
 // Add services to the container.
 
